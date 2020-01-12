@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Interview Application</string>
+    <string name="instructions">Instructions</string>
+    <string name="instructions_text">
+        Your job is to display a list of menu items. Each item has an id, a name, a description, and a photo URI.\nTasks:\n1. Fetch data from\n\t\t https://api.myjson.com/bins/kvdzh\n2. Persist the data in the Realm database\n3. Display a list of food items with name and photo\n4. Clicking on a food item opens up a detail view with name, photo and description
+    </string>
+    <string name="remove_card">Remove this card and replace it with the food items content</string>
+    <string name="item_photo">item photo</string>
+    <string name="gradient_view">gradient view</string>
+    <string name="error">Something went wrong, Please try again.</string>
+    <string name="retry">Retry</string>
+</resources>
